@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+
+# Python Sdist
+*.manifest
+*.spec
+
+# Nuitka
+*.exe
+*.bin
+*.plugin
+
+# Miscellaneous
+*.db
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.DS_Store
+*.vscode/
+*.idea/
+*.pydevproject
+*.pydevworkspace
+*~.nfs*
+.env
+
+# Ignore virtual environment directories (if using virtualenv or venv)
+venv/
+env/
